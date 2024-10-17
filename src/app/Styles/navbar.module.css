@@ -1,0 +1,13 @@
+
+
+
+
+@media (max-width:768px){
+    .search{
+        width: 10 0%;;
+    }
+
+    .listdata{
+        display: none;
+    }
+}

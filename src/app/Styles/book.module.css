@@ -1,0 +1,30 @@
+.report_img {
+
+    position: relative;
+    padding: 10px;
+}
+
+.image {
+    position: relative;
+    border: 1px solid #cdcdcd;
+}
+
+.header {
+    text-align: center;
+    position: absolute;
+    font-size: 18px;
+    font-weight: bold;
+
+    color: white;
+    top: 0px;
+    margin-top: 70px;
+
+
+}
+
+.ptag {
+    font-size: 13px;
+    text-align: center;
+    font-weight: 600;
+
+}
